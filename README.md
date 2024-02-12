@@ -1,6 +1,6 @@
 # Uvod_u_teoriju_racunarstva
 
-Laboratorijske vježbe predmeta Razvoj programske potpore za web koji se izvodi u 4. semestru na Fakultetu elektrotehnike i računarstva u Zagrebu.
+Laboratorijske vježbe predmeta Uvod u teoriju računarstva koji se izvodi u 4. semestru na Fakultetu elektrotehnike i računarstva u Zagrebu.
 
 **Opis predmeta**
 
